@@ -1,0 +1,302 @@
+* {
+    background-color: #101728;
+}
+
+/* ======================================================= */
+
+.Logo_Proj_Rajo{
+    background: rgba(0, 72, 255, 0);
+    width: 1000px;
+    height: 30px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Icon_Proj_Rajo{
+    position: absolute;
+    width: 25px;
+}
+
+#Proj_Rajo{
+    margin-left: 4%;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* =======================================================
+.Imagem_Perfil{
+    position: relative;
+}*/
+
+.ret_inv0{
+    background: rgba(0, 72, 255, 0);
+    width: 1000px;
+    height: 480px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Circulo{
+    margin-top: 8%;
+    margin-left: 73%;
+    position: absolute;
+    box-shadow: 0 0 50px 50px #FF66C4;
+    background: #FF66C4;
+    border-radius: 50%;
+    width: 300px;
+    height: 336px;
+}
+
+
+#Foto_Perfil{
+    transition: opacity 500ms;
+    position: absolute;
+    width: 314px;
+    height: 350px;
+    border-radius: 5%;
+    box-shadow: 0 0 40px 2px black;
+}
+
+#Foto_Perfil2{
+    transition: opacity 500ms;
+    position: absolute;
+    width: 314px;
+    height: 350px;
+    border-radius: 5%;
+    box-shadow: 0 0 40px 2px black;
+}
+
+/* ======================================================= */
+
+.Retangulo{
+    background: #1D2740;
+    width: 600px;
+    height: 400px;
+    border-radius: 5%;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+
+#Titulo_pag{
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff00;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 65pt;
+}
+
+#Descricao_pag{
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FF66C4;
+    margin-left: 0%;
+    margin-top: 45%;
+    font-size: 15pt;
+}
+
+#Descricao_pag:hover{
+    position: absolute;
+    color: rgb(255, 252, 252);
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #c45499;
+    margin-left: 0%;
+    margin-top: 45%;
+    font-size: 15pt;
+    transition: 1ms;
+}
+
+/* ======================================================= */
+
+.linha{
+    margin-top: 8%;
+    border: 0;
+    width: 50%;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, #CCC, transparent); 
+}
+
+/* ======================================================= */
+
+.ret_inv{
+    background: rgba(0, 72, 255, 0);
+    width: 900px;
+    height: 670px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Txt_Explicacao{
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 38pt;
+}
+
+/* ======================================================= */
+
+.ret_inv2{
+    background: rgba(0, 72, 255, 0);
+    width: 990px;
+    height: 550px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Hobbies{
+    position: absolute;
+    color: #FF3C5F;
+    font-size: 48pt;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-top: 2%;
+}
+
+#Descr_Hobbies{
+    color: white;
+    position: absolute;
+    font-size: 32pt;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    margin-top: 17%;
+    width: 500px;
+}
+
+#Img_Hobbies{
+    box-shadow: 0 0 40px 2px black;
+    transition: opacity 500ms;
+    position: absolute;
+    border-radius: 6%;
+    width: 465px;
+    height: 400px;
+    margin-top: 8%;
+    margin-left: 53%;
+}
+
+#Img_Hobbies2{
+    box-shadow: 0 0 40px 2px black;
+    transition: opacity 500ms;
+    position: absolute;
+    border-radius: 6%;
+    width: 465px;
+    height: 400px;
+    margin-top: 8%;
+    margin-left: 53%;
+}
+
+/* ======================================================= */
+
+.ret_inv3{
+    background: rgba(0, 72, 255, 0);
+    width: 990px;
+    height: 550px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Icon_Proj_Rajo2{
+    position: absolute;
+    width: 25px;
+    margin-top: 20%;
+}
+
+#Proj_Rajo2{
+    margin-top: 20%;
+    margin-left: 4%;
+    position: absolute;
+    color: white;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ======================================================= */
+
+#Titulo_Fin{
+    position: absolute;
+    color: #FF3C5F;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20%;
+    margin-left: 61%;
+    font-size: 20pt;
+}
+
+#Img_html{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-top: 27%;
+    margin-left: 60%;
+}
+
+#Img_css{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-top: 27%;
+    margin-left: 70%;
+}
+
+#Img_js{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-top: 27%;
+    margin-left: 80%;
+}
+
+#Botao_Cima{
+    position: fixed;
+    bottom: 20px;
+    width: 40px;
+    height: 40px;
+    right: 30px;
+    z-index: 999;
+    font-size: 18px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+    border-radius: 50%;
+}
+
+#Botao_Cima:hover{
+    background-color: #e67b8f;
+}
+
+#Botao_Baixo{
+    position: fixed;
+    right: 30px;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 7px;
+    border-radius: 50%;
+}
+
+#Botao_Baixo:hover{
+    background-color: #e67b8f;
+}
+
+
+
+
